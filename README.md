@@ -13,6 +13,17 @@ The Digiboard Project aims to create a digital whiteboard application that allow
 - Exporting whiteboards as images or PDFs
 - Integration with other collaboration tools (e.g., Slack, Microsoft Teams)
 
+- ##ScreenShots
+- ![Screenshot 2024-08-09 231019](https://github.com/user-attachments/assets/54bd901b-306c-4e5a-b7da-9bc3297e50c6)
+- 
+![Screenshot 2024-08-11 191356](https://github.com/user-attachments/assets/3109af6c-2f6d-4a06-bdd2-b293561ef3bb)
+
+![Screenshot 2024-08-11 191432](https://github.com/user-attachments/assets/4eb17334-f56c-4b27-a178-3d6b8ea7381d)
+
+![Screenshot 2024-08-11 191608](https://github.com/user-attachments/assets/1b5c7913-323e-466a-98a0-afe36e6d4f1f)
+
+![Screenshot 2024-08-11 191731](https://github.com/user-attachments/assets/87b938b1-dd68-4130-ad73-6349dcdd688e)
+
 ## Technologies
 - Frontend: React, Next.js
 - Backend: Node.js, Express
@@ -20,45 +31,8 @@ The Digiboard Project aims to create a digital whiteboard application that allow
 - Authentication: JWT, OAuth
 - Deployment: Vercel, GitHub Pages
 
-## Setup Instructions
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/SURESHUDAVALAPATI/digiboard.git
-    cd digiboard
-    ```
 
-2. **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3. **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-
-4. **Build the project:**
-    ```bash
-    npm run build
-    ```
-
-5. **Start the production server:**
-    ```bash
-    npm start
-    ```
-
-## Deployment Instructions
-
-1. **Build the project:**
-    ```bash
-    npm run build
-    ```
-
-2. **Deploy to GitHub Pages:**
-    ```bash
-    npm run deploy
-    ```
 
 ## Scripts
 
@@ -72,14 +46,7 @@ The Digiboard Project aims to create a digital whiteboard application that allow
 - `predeploy`: Runs the build script before deploying.
 - `deploy`: Deploys the project to GitHub Pages.
 
-## Contributing
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-Thanks to everyone who has contributed to this project!
 
 ---
 
@@ -87,8 +54,7 @@ Thanks to everyone who has contributed to this project!
 
 Whiteboard application for digital collaboration.
 
-## Youtube Link :
-https://youtu.be/B5rq-SzB5Cw
+
 
 ---
 
